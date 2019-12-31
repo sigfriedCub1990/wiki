@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Sigfried's personal wiki](README.md)
-* [Functional programming](functional-programming.md)
 
 ## Programming
 
 * [Compilers](programming/compilers.md)
+* [Functional programming](programming/functional-programming.md)
 
 ## Javascript
 

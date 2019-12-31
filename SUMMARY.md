@@ -5,6 +5,7 @@
 
 ## Javascript
 
+* [General](javascript/general.md)
 * [React](javascript/react.md)
 
 ## Linux

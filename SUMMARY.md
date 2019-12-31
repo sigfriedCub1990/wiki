@@ -3,6 +3,10 @@
 * [Sigfried's personal wiki](README.md)
 * [Functional programming](functional-programming.md)
 
+## Programming
+
+* [Compilers](programming/compilers.md)
+
 ## Javascript
 
 * [General](javascript/general.md)

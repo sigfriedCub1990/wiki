@@ -1,5 +1,5 @@
 ---
-description: "Or how I learned (actually learning \U0001F605) to stop worrying and love computer."
+description: "Or how I learned (actually learning \U0001F605) to stop worrying and love computers."
 ---
 
 # Compilers

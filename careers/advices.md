@@ -10,3 +10,7 @@ description: >-
 
 [Things I learnt the hard way](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
 
+[Teach yourself programming in 10 years](http://norvig.com/21-days.html)
+
+
+

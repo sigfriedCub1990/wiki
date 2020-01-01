@@ -20,3 +20,7 @@
 
 * [Advices](careers/advices.md)
 
+## Vim
+
+* [General](vim/general.md)
+

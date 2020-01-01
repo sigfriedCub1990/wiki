@@ -12,3 +12,7 @@ description: >-
 2. [Vim ways](https://vimways.org)
 3. [Idiomatic vimrc](https://github.com/romainl/idiomatic-vimrc)
 
+## Others
+
+1. [Vim apps](https://vim.reversed.top/)
+

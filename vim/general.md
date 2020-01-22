@@ -11,6 +11,7 @@ description: >-
 1. [The patient vimmer](https://romainl.github.io/the-patient-vimmer/0.html)
 2. [Vim ways](https://vimways.org)
 3. [Idiomatic vimrc](https://github.com/romainl/idiomatic-vimrc)
+4. [Learn Vim script the hard way](https://learnvimscriptthehardway.stevelosh.com/)
 
 ## Others
 

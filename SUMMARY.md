@@ -32,3 +32,7 @@
 
 * [OS internals](os/os-internals.md)
 
+## Uncategorized
+
+* [Uncategorized index](uncategorized/uncategorized-index.md)
+

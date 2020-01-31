@@ -23,6 +23,7 @@
 ## Vim
 
 * [General](vim/general.md)
+* [Daily Vim tips](vim/daily-vim-tips.md)
 
 ## Terminal
 

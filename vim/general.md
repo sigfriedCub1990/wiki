@@ -6,7 +6,7 @@ description: >-
 
 # General
 
-### Vim advises:
+## Vim advises:
 
 #### Learn touch-typing:
 

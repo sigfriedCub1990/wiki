@@ -16,14 +16,14 @@ let API_URL = 'https://my-example-api.com'
 let ENTITY_PATH = `${API_URL}/entity`
 
 ## Step #1:
-Record a macro to put a semicolon(;) at the end of each line
-qa A;<Esc>q - This is the macro, it's stored in the `a` register
+## Record a macro to put a semicolon(;) at the end of each line
+qa A;<Esc>q ## This is the macro, it's stored in the `a` register
 
 ## Step #2:
-Visual select the two lines and then(in Ex mode)
+## Visual select the two lines and then(in Ex mode)
 :'<,'>norm! @a and let the magic happen
 
-# result code
+## result code
 let API_URL = 'https://my-example-api.com';
 let ENTITY_PATH = `${API_URL}/entity`;
 ```

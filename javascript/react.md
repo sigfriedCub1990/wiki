@@ -12,7 +12,7 @@ description: React is a UI library created by Facebook
 
 ### Design patterns
 
-1. [React design patterns](https://krasimir.gitbooks.io/react-in-patterns/)
+1. [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/)
 
 ### **Managing permission**
 

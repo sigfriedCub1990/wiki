@@ -7,6 +7,11 @@
 * [Compilers](programming/compilers.md)
 * [Functional programming](programming/functional-programming.md)
 
+## Low level programming <a id="low_level"></a>
+
+* [Assembler](low_level/assembler.md)
+* [OS internals](low_level/os-internals.md)
+
 ## Javascript
 
 * [General](javascript/general.md)
@@ -28,11 +33,6 @@
 ## Terminal
 
 * [Tmux](terminal/tmux.md)
-
-## Low level programming <a id="low_level"></a>
-
-* [Assembler](low_level/assembler.md)
-* [OS internals](os/os-internals.md)
 
 ## Uncategorized
 

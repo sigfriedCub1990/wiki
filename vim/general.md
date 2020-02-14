@@ -22,13 +22,8 @@ In order to improve your usage of **Vim** you must learn the **Vim** language. I
 
 With **Vim** is kind of the same, if you search the web for _**Vim's cheatsheet**_ I'm confident that you will find many pictures of a keyboard, no matter the layout, with **hundreds** of key combinations, this is in fact really overwhelming but you don't need that if you are starting your Vim's journey.
 
-Learning Vim's language is a task that takes time and practice `Whole lotta of practice` as my friend Robert Plant once said :\), but fear not, as always, the more you use Vim the more comfortable you will feel **communicating** your intents to **Vim**.
+Learning Vim's language is a task that takes time and practice `Whole lotta of practice` as my friend Robert Plant once said :\), but fear not, as always, the more you use Vim the more comfortable you will feel **communicating** your intents to **Vim**.  
 
-
-
-## Vim conferences
-
-1. [How to do 90% of what plugins do just with Vim](https://www.youtube.com/watch?v=XA2WjJbmmoM&list=WL&index=2&t=0s)
 
 ## Useful pages
 

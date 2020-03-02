@@ -8,3 +8,8 @@ description: A section dedicated to general assembly
 
 1. [6502 Assembler tutorials](http://www.6502.org/tutorials/)
 
+## NES specifics
+
+1. [NES Dev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
+2. [cc65 compiler](https://github.com/cc65/cc65)
+

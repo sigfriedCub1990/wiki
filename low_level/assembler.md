@@ -11,5 +11,6 @@ description: A section dedicated to general assembly
 ## NES specifics
 
 1. [NES Dev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki)
-2. [cc65 compiler](https://github.com/cc65/cc65)
+2. [NES Programming](https://en.wikibooks.org/wiki/NES_Programming)
+3. [cc65 compiler](https://github.com/cc65/cc65)
 

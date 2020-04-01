@@ -13,5 +13,9 @@ description: 'Information regarding tmux, a terminal multiplexer.'
 
 1. [Enable italics in tmux + vim](https://rsapkf.netlify.com/blog/enabling-italics-vim-tmux)
 
+### Tips & Tricks
+
+1. [Connect to remote tmux session](https://superuser.com/questions/878890/attach-a-tmux-session-to-a-remote-machine) \(if having troubles because of the $TERM variable you should check [Prevent passing $TERM to ssh](https://unix.stackexchange.com/questions/67537/prevent-ssh-client-passing-term-environment-variable-to-server)\)
+
 
 

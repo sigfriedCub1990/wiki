@@ -38,3 +38,7 @@
 
 * [Uncategorized index](uncategorized/uncategorized-index.md)
 
+## Rust
+
+* [Rust 101](rust/rust-101.md)
+

@@ -34,11 +34,11 @@
 
 * [Tmux](terminal/tmux.md)
 
-## Uncategorized
-
-* [Uncategorized index](uncategorized/uncategorized-index.md)
-
 ## Rust
 
 * [Rust 101](rust/rust-101.md)
+
+## Uncategorized
+
+* [Uncategorized index](uncategorized/uncategorized-index.md)
 

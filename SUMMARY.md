@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sigfried's personal wiki](README.md)
+* [Main page](README.md)
 
 ## Programming
 

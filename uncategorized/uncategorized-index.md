@@ -13,6 +13,7 @@ description: >-
 ## Blogs
 
 1. [Ariejan de Vroom's](https://www.devroom.io/)
+2. [A pragmatic place](https://timidger.github.io/)
 
 
 

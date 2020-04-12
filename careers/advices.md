@@ -12,5 +12,7 @@ description: >-
 
 [Teach yourself programming in 10 years](http://norvig.com/21-days.html)
 
+[Big programming](https://timidger.github.io/posts/2018-04-28-programming-big/)
+
 
 

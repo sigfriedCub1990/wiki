@@ -14,5 +14,7 @@ description: >-
 
 [Big programming](https://timidger.github.io/posts/2018-04-28-programming-big/)
 
+[Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)
+
 
 

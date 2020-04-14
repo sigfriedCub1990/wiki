@@ -6,15 +6,10 @@ description: >-
 
 # Uncategorized index
 
-1. [Browserling creator's blog](https://catonmat.net/)
-2. [How to ask smart questions?](http://www.catb.org/esr/faqs/smart-questions.html#intro)
-3. [Asking questions](https://www.aaronkharris.com/asking-questions)
 
-## Blogs
 
-1. [Ariejan de Vroom's](https://www.devroom.io/)
-2. [A pragmatic place](https://timidger.github.io/)
-3. [Made of bugs](https://blog.nelhage.com/)
+1. [How to ask smart questions?](http://www.catb.org/esr/faqs/smart-questions.html#intro)
+2. [Asking questions](https://www.aaronkharris.com/asking-questions)
 
 
 

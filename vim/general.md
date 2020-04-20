@@ -36,6 +36,7 @@ Learning Vim's language is a task that takes time and practice `Whole lotta of p
 2. [Vim ways](https://vimways.org)
 3. [Idiomatic vimrc](https://github.com/romainl/idiomatic-vimrc)
 4. [Learn Vim script the hard way](https://learnvimscriptthehardway.stevelosh.com/)
+5. [A good vimrc](https://dougblack.io/words/a-good-vimrc.html)
 
 ## Others
 

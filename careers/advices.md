@@ -16,5 +16,7 @@ description: >-
 
 [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)
 
+[Rules of thumb](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
+
 
 

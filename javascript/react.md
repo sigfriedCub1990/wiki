@@ -22,5 +22,11 @@ description: React is a UI library created by Facebook
 
 1. [Getting authentication token right in SPA's](https://medium.com/lightrail/getting-token-authentication-right-in-a-stateless-single-page-application-57d0c6474e3)
 
+### React-Redux
+
+1. [Scaling your app with ducks](https://www.freecodecamp.org/news/scaling-your-redux-app-with-ducks-6115955638be/)
+2. [ducks-modular-redux\(repo\)](https://www.freecodecamp.org/news/scaling-your-redux-app-with-ducks-6115955638be/)
+3. [re-ducks](https://github.com/alexnm/re-ducks)
+
 
 

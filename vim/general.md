@@ -38,6 +38,10 @@ Learning Vim's language is a task that takes time and practice `Whole lotta of p
 4. [Learn Vim script the hard way](https://learnvimscriptthehardway.stevelosh.com/)
 5. [A good vimrc](https://dougblack.io/words/a-good-vimrc.html)
 
+## Articles
+
+1. [Modern web dev with Typescript and React](https://thoughtbot.com/blog/modern-typescript-and-react-development-in-vim)
+
 ## Others
 
 1. [Vim apps](https://vim.reversed.top/)

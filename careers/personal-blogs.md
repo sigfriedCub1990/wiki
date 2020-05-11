@@ -11,6 +11,7 @@ description: A non-exhaustive list of other Software Engineers blog
 * [Made of bugs](https://blog.nelhage.com/)
 * [Browserling creator's blog](https://catonmat.net/)
 * [Joel Spolsky's blog](https://www.joelonsoftware.com/)
+* [Unixism](https://unixism.net/)
 
 
 

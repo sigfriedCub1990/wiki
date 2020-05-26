@@ -9,6 +9,10 @@ description: >-
 1. [How to ask smart questions?](http://www.catb.org/esr/faqs/smart-questions.html#intro)
 2. [Asking questions](https://www.aaronkharris.com/asking-questions)
 
+### Design Patterns
+
+1. [Game's design patterns](http://gameprogrammingpatterns.com/)
+
 ### RxJS
 
 1. [Understanding map, mergeMap, switchMap and concatMap](https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff)

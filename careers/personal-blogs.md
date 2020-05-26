@@ -12,6 +12,8 @@ description: A non-exhaustive list of other Software Engineers blog
 * [Browserling creator's blog](https://catonmat.net/)
 * [Joel Spolsky's blog](https://www.joelonsoftware.com/)
 * [Unixism](https://unixism.net/)
+* [Pagetable](https://www.pagetable.com/)
+* [Letters to a new develops](https://letterstoanewdeveloper.com/)
 
 
 

@@ -12,6 +12,7 @@ description: >-
 ### Design Patterns
 
 1. [Game's design patterns](http://gameprogrammingpatterns.com/)
+2. [Design patterns in Typescript \(Refactoring guru\)](https://refactoring.guru/design-patterns/typescript)
 
 ### RxJS
 

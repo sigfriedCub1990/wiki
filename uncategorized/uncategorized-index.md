@@ -14,6 +14,10 @@ description: >-
 1. [Game's design patterns](http://gameprogrammingpatterns.com/)
 2. [Design patterns in Typescript \(Refactoring guru\)](https://refactoring.guru/design-patterns/typescript)
 
+#### Patterns examples
+
+1. [Generic repository pattern](https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e)
+
 ### RxJS
 
 1. [Understanding map, mergeMap, switchMap and concatMap](https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff)

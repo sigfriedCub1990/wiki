@@ -22,6 +22,7 @@ description: >-
 
 1. [Visual representation of algorithms](https://www.chrislaux.com/)
 2. [Algorithms visualizer](https://algorithm-visualizer.org/)
+3. [Algorithms implemented in JS](https://github.com/trekhleb/javascript-algorithms)
 
 ### RxJS
 

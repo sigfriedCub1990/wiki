@@ -13,7 +13,8 @@ description: >-
 
 1. [Game's design patterns](http://gameprogrammingpatterns.com/)
 2. [Design patterns in Typescript \(Refactoring guru\)](https://refactoring.guru/design-patterns/typescript)
-3. [SOLID principles with Java](https://github.com/mikeknep/SOLID)
+3. [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+4. [SOLID principles with Java](https://github.com/mikeknep/SOLID)
 
 #### Patterns examples
 

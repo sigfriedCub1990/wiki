@@ -18,6 +18,11 @@ description: >-
 
 1. [Generic repository pattern](https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e)
 
+### Algorithms
+
+1. [Visual representation of algorithms](https://www.chrislaux.com/)
+2. [Algorithms visualizer](https://algorithm-visualizer.org/)
+
 ### RxJS
 
 1. [Understanding map, mergeMap, switchMap and concatMap](https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff)

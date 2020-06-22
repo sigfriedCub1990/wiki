@@ -24,6 +24,10 @@ description: >-
 2. [Algorithms visualizer](https://algorithm-visualizer.org/)
 3. [Algorithms implemented in JS](https://github.com/trekhleb/javascript-algorithms)
 
+### MongoDB
+
+1. [Design DB schemas](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)\(part 1\)
+
 ### RxJS
 
 1. [Understanding map, mergeMap, switchMap and concatMap](https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff)

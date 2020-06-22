@@ -30,6 +30,11 @@ description: >-
 
 1. [Design DB schemas](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)\(part 1\)
 
+### Interview preparations
+
+1. [Joel's test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+2. [Reverse interview](https://github.com/viraptor/reverse-interview)
+
 ### RxJS
 
 1. [Understanding map, mergeMap, switchMap and concatMap](https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff)

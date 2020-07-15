@@ -14,6 +14,7 @@ description: A non-exhaustive list of other Software Engineers blog
 * [Unixism](https://unixism.net/)
 * [Pagetable](https://www.pagetable.com/)
 * [Letters to a new develops](https://letterstoanewdeveloper.com/)
+* [The pragmatic engineer](https://blog.pragmaticengineer.com/)
 
 
 

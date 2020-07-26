@@ -18,5 +18,7 @@ description: >-
 
 [Rules of thumb](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 
+[How to speak -- by Patrick Winston, MIT AI professor](https://www.youtube.com/watch?v=Unzc731iCUY)
+
 
 

@@ -42,7 +42,7 @@ description: >-
 
 ### Philosophy
 
-1. [Philosophy in Computer Science](https://news.ycombinator.com/item?id=20912718)
+1. [Philosophy of Computer Science](https://news.ycombinator.com/item?id=20912718)
 
 ### Uncategorized
 

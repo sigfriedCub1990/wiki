@@ -7,4 +7,5 @@
 ### Virtual machines
 
 1. [Write a virtual PC in C](https://megalomaniacbore.blogspot.com/2014/04/virtual-cpu-in-c-4001-cpu.html)
+2. [Write your own VM](https://justinmeiners.github.io/lc3-vm/)
 

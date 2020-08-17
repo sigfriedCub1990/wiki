@@ -40,6 +40,12 @@ description: >-
 1. [Understanding map, mergeMap, switchMap and concatMap](https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff)
 2. [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
+### Philosophy
+
+1. [Philosophy in Computer Science](https://news.ycombinator.com/item?id=20912718)
+
+### Uncategorized
+
 * [Solving sudokus by hand :\)](https://www.ams.org/notices/200904/rtx090400460p.pdf)
 * [Why Maxwell's Theory is so hard to understand?](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 * [Get started with CS papers](https://developer.sh/posts/computer-science-papers)

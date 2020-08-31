@@ -23,7 +23,7 @@
 
 ## Careers
 
-* [Advices](careers/advices.md)
+* [Advice](careers/advices.md)
 * [Personal blogs](careers/personal-blogs.md)
 
 ## Vim

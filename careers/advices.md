@@ -1,7 +1,7 @@
 ---
 description: >-
   This will be a curated list of articles that I found interesting about careers
-  advises, experiences, etc from other experienced Software Engineers.
+  advise, experiences, etc from other experienced Software Engineers.
 ---
 
 # Advice

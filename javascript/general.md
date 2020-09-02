@@ -7,8 +7,7 @@ description: 'This page contains links to books, personal blogs and general JS r
 ### Blogs
 
 1. [Dan Abramov's blog](https://overreacted.io)
-2. [Kent C. Dodds's blog](https://kentcdodds.com/)
-3. [PonyFoo](https://ponyfoo.com)
+2. [PonyFoo](https://ponyfoo.com)
 
 ### Books
 

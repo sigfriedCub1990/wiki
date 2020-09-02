@@ -19,6 +19,8 @@ function generateRandomNumber() {
 
 ### Run _asynchronous tasks_ sequentially
 
+[Article explaining this](https://jrsinclair.com/articles/2019/how-to-run-async-js-in-parallel-or-sequential/) in a bit more depth
+
 ```javascript
 const asyncThingsToDo = [
     {task: 'wait', duration: 1000},
@@ -46,6 +48,8 @@ testAsyncSequence();
 ```
 
 ### Mock window.crypto in jest
+
+[S.O Reference](https://stackoverflow.com/questions/52612122/how-to-use-jest-to-test-functions-using-crypto-or-window-mscrypto)
 
 ```javascript
 const crypto = require('crypto');

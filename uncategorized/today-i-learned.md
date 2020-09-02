@@ -61,3 +61,8 @@ Object.defineProperty(global.self, 'crypto', {
 });
 ```
 
+### Node.js has a built-in performance benchmark suite
+
+1. [S.O Reference](https://stackoverflow.com/questions/10617070/how-do-i-measure-the-execution-time-of-javascript-code-with-callbacks)
+2.  [Node.js docs](https://nodejs.org/api/perf_hooks.html)
+

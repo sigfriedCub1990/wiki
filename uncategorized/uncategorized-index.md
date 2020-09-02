@@ -49,6 +49,7 @@ description: >-
 * [Solving sudokus by hand :\)](https://www.ams.org/notices/200904/rtx090400460p.pdf)
 * [Why Maxwell's Theory is so hard to understand?](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 * [Get started with CS papers](https://developer.sh/posts/computer-science-papers)
+* [Skeptic guide to Physics](http://jick.net/~jess/hr/skept/)
 
 
 

@@ -68,5 +68,6 @@ Object.defineProperty(global.self, 'crypto', {
 
 ### Why return from an event handler
 
-[https://stackoverflow.com/questions/7814949/javascript-onclick-event-return-keyword-functionality](https://stackoverflow.com/questions/7814949/javascript-onclick-event-return-keyword-functionality)
+1. [S.O Reference](https://stackoverflow.com/questions/7814949/javascript-onclick-event-return-keyword-functionality)
+2. [Codepen implementation](https://codepen.io/sigfriedCub/pen/YzqEpep)
 

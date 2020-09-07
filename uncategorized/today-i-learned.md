@@ -66,3 +66,7 @@ Object.defineProperty(global.self, 'crypto', {
 1. [S.O Reference](https://stackoverflow.com/questions/10617070/how-do-i-measure-the-execution-time-of-javascript-code-with-callbacks)
 2.  [Node.js docs](https://nodejs.org/api/perf_hooks.html)
 
+### Why return from an event handler
+
+[https://stackoverflow.com/questions/7814949/javascript-onclick-event-return-keyword-functionality](https://stackoverflow.com/questions/7814949/javascript-onclick-event-return-keyword-functionality)
+

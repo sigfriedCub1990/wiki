@@ -71,3 +71,7 @@ Object.defineProperty(global.self, 'crypto', {
 1. [S.O Reference](https://stackoverflow.com/questions/7814949/javascript-onclick-event-return-keyword-functionality)
 2. [Codepen implementation](https://codepen.io/sigfriedCub/pen/YzqEpep)
 
+### Generate patch from a commit with magit them apply it
+
+1. [Apply changes from patch file](https://stackoverflow.com/questions/2249852/how-to-apply-a-patch-generated-with-git-format-patch)
+

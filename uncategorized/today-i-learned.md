@@ -75,3 +75,7 @@ Object.defineProperty(global.self, 'crypto', {
 
 1. [Apply changes from patch file](https://stackoverflow.com/questions/2249852/how-to-apply-a-patch-generated-with-git-format-patch)
 
+### Fuzzy string matching with PostgreSQL
+
+`PostgreSQL` has support for [fuzzy string matching](https://www.freecodecamp.org/news/fuzzy-string-matching-with-postgresql/) through the module `pg_trgm`
+

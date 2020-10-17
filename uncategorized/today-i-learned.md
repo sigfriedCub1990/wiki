@@ -79,3 +79,7 @@ Object.defineProperty(global.self, 'crypto', {
 
 `PostgreSQL` has support for [fuzzy string matching](https://www.freecodecamp.org/news/fuzzy-string-matching-with-postgresql/) through the module `pg_trgm`
 
+### Why \`couldn't get file descriptor referring to the console\`
+
+1. [S.O Reference](https://stackoverflow.com/questions/28353244/error-in-linux-console-couldnt-get-a-file-descriptor-referring-to-the-console)
+

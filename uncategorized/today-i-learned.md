@@ -83,3 +83,8 @@ Object.defineProperty(global.self, 'crypto', {
 
 1. [S.O Reference](https://stackoverflow.com/questions/28353244/error-in-linux-console-couldnt-get-a-file-descriptor-referring-to-the-console)
 
+### Map 2d array to 1d array
+
+1. [S.O Reference](https://stackoverflow.com/questions/2151084/map-a-2d-array-onto-a-1d-array)
+2. [Row and column-major order](https://en.m.wikipedia.org/wiki/Row-_and_column-major_order)
+

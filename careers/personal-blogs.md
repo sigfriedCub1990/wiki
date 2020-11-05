@@ -16,6 +16,7 @@ description: A non-exhaustive list of other Software Engineers blog
 * [Letters to a new develops](https://letterstoanewdeveloper.com/)
 * [The pragmatic engineer](https://blog.pragmaticengineer.com/)
 * [Lea Verou's blog](https://lea.verou.me/)
+* [Spakhm's newsletter](https://www.spakhm.com/)
 
 
 

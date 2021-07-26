@@ -35,6 +35,10 @@
 
 * [Tmux](terminal/tmux.md)
 
+## CVS
+
+* [Git](cvs/git.md)
+
 ## Rust
 
 * [Rust 101](rust/rust-101.md)
@@ -44,8 +48,4 @@
 * [Today I Learned](uncategorized/today-i-learned.md)
 * [Docker](uncategorized/docker.md)
 * [Uncategorized index](uncategorized/uncategorized-index.md)
-
----
-
-* [Git](git.md)
 

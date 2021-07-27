@@ -11,6 +11,7 @@ description: >-
 
 1. [Think like a Git](http://think-like-a-git.net/)
 2. [Visual Git guide](https://marklodato.github.io/visual-git-guide/index-en.html)
+3. [Explain Git concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
 
 
 

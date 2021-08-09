@@ -13,11 +13,11 @@ description: >-
 * [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)
 * [Rules of thumb](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 
-### Begginers advices
+### Beginners advices
 
 * [8-bits Advice for new programmers](https://www.youtube.com/watch?v=vVRCJ52g5m4&list=WL&index=15)
 
-### Not neccesarily CS related
+### Not necessarily CS related
 
 * [How to speak -- by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY) \(MIT AI professor\)
 

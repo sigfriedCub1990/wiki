@@ -14,10 +14,6 @@ description: React is a UI library created by Facebook
 
 1. [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/)
 
-### **Managing permission**
-
-1. [Personal gist](https://gist.github.com/sigfriedCub1990/e3563bac2fca908a1507e036d9f6d85e)
-
 ### Security in apps
 
 1. [Getting authentication token right in SPA's](https://medium.com/lightrail/getting-token-authentication-right-in-a-stateless-single-page-application-57d0c6474e3)

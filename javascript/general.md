@@ -4,6 +4,10 @@ description: 'This page contains links to books, personal blogs and general JS r
 
 # General
 
+### Things you should understand
+
+1. [Why prototypal inheritance matters](https://aaditmshah.github.io/why-prototypal-inheritance-matters/#constructors_vs_prototypes)
+
 ### Blogs
 
 1. [Dan Abramov's blog](https://overreacted.io)
@@ -15,10 +19,6 @@ description: 'This page contains links to books, personal blogs and general JS r
 2. [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 3. [Javascript.info](https://javascript.info/)
 4. [Javascript design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
-### Tips
-
-1. [Using class-properties proposal](https://codeburst.io/use-class-properties-to-clean-up-your-classes-and-react-components-93185879f688)
 
 
 

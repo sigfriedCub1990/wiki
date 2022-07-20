@@ -7,15 +7,16 @@
 * [Compilers](programming/compilers.md)
 * [Functional programming](programming/functional-programming.md)
 
-## Low level programming <a id="low_level"></a>
+## Low level programming <a href="#low_level" id="low_level"></a>
 
-* [Assembler](low_level/assembler.md)
-* [OS internals](low_level/os-internals.md)
+* [Assembler](low\_level/assembler.md)
+* [OS internals](low\_level/os-internals.md)
 
 ## Javascript
 
 * [General](javascript/general.md)
 * [React](javascript/react.md)
+* [Web Workers](javascript/web-workers.md)
 
 ## Linux
 
@@ -48,4 +49,3 @@
 * [Today I Learned](uncategorized/today-i-learned.md)
 * [Docker](uncategorized/docker.md)
 * [Uncategorized index](uncategorized/uncategorized-index.md)
-

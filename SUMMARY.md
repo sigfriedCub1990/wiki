@@ -16,7 +16,7 @@
 
 * [General](javascript/general.md)
 * [React](javascript/react.md)
-* [Web Workers](javascript/web-workers.md)
+* [Service Workers](javascript/service-workers.md)
 
 ## Linux
 
